@@ -1,0 +1,1 @@
+const npm = "npm i express passport dotenv passport-local nodemailer mongoose helmet ejs cookie-parser express-session bcryptjs jsonwebtoken video.js";
